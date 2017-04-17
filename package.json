@@ -1,0 +1,40 @@
+{
+  "name": "yoschool",
+  "version": "0.0.1",
+  "description": "A web app starter project that includes Node, Express, Angular 2, Mongo DB and Passport with Local Strategy.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "yoschool",
+    "Node",
+    "Express",
+    "Angular 2",
+    "Passport"
+  ],
+  "author": "Shailendra Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/shailendra4chat",
+  "dependencies": {
+    "bcryptjs": "^2.4.0",
+    "body-parser": "^1.15.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "mongojs": "^2.4.0",
+    "mongoose": "^4.7.4",    
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
